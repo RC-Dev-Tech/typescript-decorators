@@ -45,11 +45,7 @@
 ---
 
 ## 參考資料:
-* [認識同步與非同步 — Callback + Promise + Async/Await](https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E5%BF%83%E5%BE%97-%E8%AA%8D%E8%AD%98%E5%90%8C%E6%AD%A5%E8%88%87%E9%9D%9E%E5%90%8C%E6%AD%A5-callback-promise-async-await-640ea491ea64) <br>
-* [MDN - Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise) <br>
-* [MDN - 非同步的 JavaScript 介紹](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Asynchronous/Introducing) <br>
-* [Heidi-Liu - 淺談 JavaScript：同步與非同步 & Callback Function & Event Loop](https://hackmd.io/@Heidi-Liu/note-javascript-callback) <br>
-* [JavaScript 的同步與非同步 - 從 Callback function 到 Promise](https://nicolakacha.coderbridge.io/2020/09/11/sync-async/) <br>
+
 
 ---
 <!--ts-->
