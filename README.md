@@ -30,7 +30,8 @@
 ---
 
 ## 實作範例:
-- [Example1](https://github.com/RC-Dev-Tech/typescript-decorators/blob/main/src/examples/example1.ts) - 簡單範例.
+- [Example1](https://github.com/RC-Dev-Tech/typescript-decorators/blob/main/src/examples/example1.ts) - 簡單範例-類別.
+- [Example2](https://github.com/RC-Dev-Tech/typescript-decorators/blob/main/src/examples/example2.ts) - 簡單範例-方法.
 
 ---
 
